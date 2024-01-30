@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.20874b67.css",
-    "main.js": "/static/js/main.ce444c51.js",
-    "static/js/787.1937f22b.chunk.js": "/static/js/787.1937f22b.chunk.js",
-    "static/media/heroimg.jpg": "/static/media/heroimg.1af3ecba35adac3913b7.jpg",
-    "index.html": "/index.html",
-    "main.20874b67.css.map": "/static/css/main.20874b67.css.map",
-    "main.ce444c51.js.map": "/static/js/main.ce444c51.js.map",
-    "787.1937f22b.chunk.js.map": "/static/js/787.1937f22b.chunk.js.map"
+    "main.css": "/artsy/build/static/css/main.4228dd36.css",
+    "main.js": "/artsy/build/static/js/main.0f84d6f6.js",
+    "static/js/787.1937f22b.chunk.js": "/artsy/build/static/js/787.1937f22b.chunk.js",
+    "static/media/heroimg.jpg": "/artsy/build/static/media/heroimg.1af3ecba35adac3913b7.jpg",
+    "index.html": "/artsy/build/index.html",
+    "main.4228dd36.css.map": "/artsy/build/static/css/main.4228dd36.css.map",
+    "main.0f84d6f6.js.map": "/artsy/build/static/js/main.0f84d6f6.js.map",
+    "787.1937f22b.chunk.js.map": "/artsy/build/static/js/787.1937f22b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20874b67.css",
-    "static/js/main.ce444c51.js"
+    "static/css/main.4228dd36.css",
+    "static/js/main.0f84d6f6.js"
   ]
 }
